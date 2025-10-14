@@ -6,9 +6,9 @@
   <img src="https://avatars.githubusercontent.com/mjc030225" alt="avatar" width="120" style="border-radius:50%;">
 </p>
 
-<h3 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 42px;">
-  <i>𝒸𝑜𝓂𝓂𝒾𝓉 𝒶𝓉 𝓁𝑒𝒶𝓈𝓉 𝑜𝓃𝒸𝑒 𝒶 𝒹𝒶𝓎 </i>
-</h3>
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 42px;">
+  <i>𝒞𝑜𝓂𝓂𝒾𝓉 𝒪𝓃𝒸𝑒 𝐸𝓋𝑒𝓇𝓎𝒹𝒶𝓎 </i>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=radical" 
