@@ -9,13 +9,13 @@
 <h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 42px;">
   <i>𝒞𝑜𝓂𝓂𝒾𝓉 𝒪𝓃𝒸𝑒 𝐸𝓋𝑒𝓇𝓎𝒹𝒶𝓎 </i>
 </h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=radical" 
-       alt="Top Languages" height="150" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mjc030225&show_icons=true&include_all_commits=true&count_private=true&theme=radical" 
-       alt="Stats" height="150" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjc030225&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjc030225&theme=github-dark&hide_border=true" height="160" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=github_dark&hide_border=true" height="160" /> -->
 </p>
+
+
 
 <div align="center">
   <picture>
