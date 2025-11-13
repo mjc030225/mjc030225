@@ -6,16 +6,10 @@
   <img src="https://avatars.githubusercontent.com/mjc030225" alt="avatar" width="120" style="border-radius:50%;">
 </p>
 
-<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 42px;">
-  <i>𝒞𝑜𝓂𝓂𝒾𝓉 𝒪𝓃𝒸𝑒 𝐸𝓋𝑒𝓇𝓎𝒹𝒶𝓎 </i>
-</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mjc030225&show_icons=true&theme=github_dark&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjc030225&theme=github-dark&hide_border=true" height="160" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=github_dark&hide_border=true" height="160" /> -->
-</p>
-
-
+</p> -->
 
 <div align="center">
   <picture>
@@ -26,4 +20,33 @@
          width="80%" style="max-width:900px;">
   </picture>
 </div>
+
+---
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 36px;">
+  📊 𝒞𝑜𝓂𝓂𝒾𝓉 𝒮𝓉𝒶𝓉𝓈
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjc030225&theme=github_dark" height="160" />
+</p>
+
+---
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 36px;">
+  📬 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒
+</h2>
+
+<p align="center">
+  <a href="mailto:mjc030225@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Personal-mjc030225@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:mjc030225@mail.nwpu.edu.cn" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/School-mjc030225@mail.nwpu.edu.cn-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="mailto:700050058@uaeu.ac.ae" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/School-700050058@uaeu.ac.ae-6B8E23?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+
 
