@@ -5,11 +5,18 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/mjc030225" alt="avatar" width="120" style="border-radius:50%;">
 </p>
-
-<!-- <p align="center">
+---
+<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 36px;">
+  📊 𝒞𝑜𝓂𝓂𝒾𝓉 𝒮𝓉𝒶𝓉𝓈
+</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mjc030225&show_icons=true&theme=github_dark&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjc030225&theme=github-dark&hide_border=true" height="160" />
-</p> -->
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjc030225&theme=github_dark" height="160" />
+</p>
 
 <div align="center">
   <picture>
@@ -20,17 +27,6 @@
          width="80%" style="max-width:900px;">
   </picture>
 </div>
-
----
-<h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 36px;">
-  📊 𝒞𝑜𝓂𝓂𝒾𝓉 𝒮𝓉𝒶𝓉𝓈
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjc030225&theme=github_dark" height="160" />
-</p>
-
 ---
 <h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 36px;">
   📬 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒
