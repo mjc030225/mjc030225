@@ -10,10 +10,10 @@
 <h2 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 36px;">
   📊 𝒞𝑜𝓂𝓂𝒾𝓉 𝒮𝓉𝒶𝓉𝓈
 </h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mjc030225&show_icons=true&theme=github_dark&hide_border=true" height="160" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjc030225&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
+</p> -->
 
 ---
 <div align="center">
